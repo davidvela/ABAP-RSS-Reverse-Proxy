@@ -14,3 +14,7 @@ More info can be found at callaghan001.wordpress.com
 ### Youtube video: 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RnWlIooOoIw/0.jpg)](https://www.youtube.com/watch?v=RnWlIooOoIw )
+
+
+### other Feeds ... 
+...
